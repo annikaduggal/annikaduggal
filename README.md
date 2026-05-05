@@ -21,6 +21,7 @@ I build software that is reliable, scalable, and rigorously tested, and I bring 
 
 **Frameworks & Libraries**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,6 +54,7 @@ I build software that is reliable, scalable, and rigorously tested, and I bring 
 
 | Project | Description | Stack |
 |---|---|---|
+| [Job Tracker Dashboard](https://react-job-tracker.vercel.app/) | React-based job tracking app with full CRUD functionality, filtering, and persistent state using localStorage | React, JavaScript |
 | [Project Management Web App](https://github.com/annikaduggal/COMP2139-F2025) | Full-stack web app with RBAC and PostgreSQL | ASP.NET, EF Core, PostgreSQL |
 | [Port Scanner](https://github.com/annikaduggal/COMP2152_Assignment-2) | Network port scanner with multiple scan modes | Python |
 | [Tic-Tac-Toe Console App](https://github.com/dreamshrine/COMP2080_Assignment) | Two-player and vs-computer game with a custom algorithm | Java |
