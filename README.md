@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Annika!
 
-I'm a software developer and recent Computer Programming graduate from George Brown Polytechnic, with hands-on experience in Java, Python, C#, JavaScript, SQL, and ASP.NET. Before transitioning into tech, I spent two years embedded within the engineering and product teams at a fintech startup, contributing to sprint planning, UAT, and defect tracking — giving me a practical understanding of the full development cycle before I ever wrote a line of code.
+I'm a software developer and recent Computer Programming graduate from George Brown Polytechnic, with hands-on experience in Java, Python, C#, JavaScript, SQL, and ASP.NET. Before transitioning into tech, I spent two years embedded within the engineering and product teams at a fintech startup, contributing to sprint planning, UAT, and defect tracking. This gave me a practical understanding of the full development cycle before I ever wrote a line of code.
 
-I build software that is reliable, scalable, and rigorously tested, and I bring an analytical mindset to every technical problem I work on. I'm currently open to new opportunities and collaboration — feel free to reach out.
+I build software that is reliable, scalable, and rigorously tested, and I bring an analytical mindset to every technical problem I work on. I'm currently open to new opportunities and collaboration. Feel free to reach out.
 
 ---
 
